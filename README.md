@@ -36,7 +36,7 @@ Let’s connect and collaborate!
 
 ---
 
-_“Turning raw data into meaningful insights to fuel innovation and impact.”_
+_“Crafting solutions at the intersection of data and business.”_
 
 <!---
 Jitin-JN/Jitin-JN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
